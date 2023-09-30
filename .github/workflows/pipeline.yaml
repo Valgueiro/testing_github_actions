@@ -9,5 +9,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: npm install -g eslint
-      - run: eslint -v
+      - run: npm install
+      - run: npm run test
+      - run: npm run feature-tests
+
