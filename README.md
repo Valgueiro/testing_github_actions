@@ -2,6 +2,8 @@
 
 Sejam bem-vindos!! Este é o aplicativo todo list da empresa ACASTRO Pedras e Pedregulhos.
 
+![Home page](./assets/homepage.png)
+
 Este repositório é um fork do repositório [js-unit-tests-adventure](https://github.com/Valgueiro/js-unit-tests-adventure).
 
 
