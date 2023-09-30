@@ -2,7 +2,7 @@ name: todo-pipeline
 run-name: Pipeline de testes
 on: [push]
 jobs:
-  check-eslint-version:
+  run_tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
